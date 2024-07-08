@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=ffc2d1&text=Welcome&section=header&fontColor=cdb4db&textBg=false&desc=HyeonJi's%20GitHub%20Profile&descAlign=58&descAlignY=62
+
 ## Profile
 - Name : Kim Hyeon Ji
 - Email : rlaguswl_01@naver.com
