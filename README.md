@@ -1,16 +1,14 @@
-## Hi there 👋
+## Profile
+- Name : Kim Hyeon Ji
+- Email : rlaguswl_01@naver.com
+- ✨ I'm currently working as an IoT instructor
+  - Major : C#, Smart Factory, IoT Development
+  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
 
-<!--
-**guswlrla/guswlrla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/guswlrla">
+    <img src="https://github-readme-stats.vercel.app/api?username=guswlrla&theme= radical&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswlrla&theme= radical&layout=compact"/>
+  </a>
+</p>
