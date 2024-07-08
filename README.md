@@ -8,7 +8,7 @@
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/guswlrla">
-    <img src="https://github-readme-stats.vercel.app/api?username=guswlrla&theme=synthwave&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswlrla&theme=synthwave&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=guswlrla&theme=highcontrast&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswlrla&theme=highcontrast&layout=compact"/>
   </a>
 </p>
