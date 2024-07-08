@@ -18,7 +18,6 @@
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
     <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
-    <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="VisualBasic">
 </p>
 
 ## Using Tools
