@@ -1,5 +1,7 @@
 ### About Me
-- I'm currently working as an IoT instructor
+- Name : Kim Hyeon Ji
+- Email : rlaguswl_01@naver.com
+- Activity : 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 (2024.01 ~ 2024.09)
 
 #### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white)
