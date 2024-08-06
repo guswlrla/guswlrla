@@ -1,6 +1,6 @@
 ### About Me
 - ☁️ Name : Kim Hyeon Ji
-- 💡Email : rlaguswl_01@naver.com
+- 📫 Email : rlaguswl_01@naver.com
 - 🌱 Activity : 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 (2024.01 ~ 2024.09)
 
 #### 🚀 Tech Stack
