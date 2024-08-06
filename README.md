@@ -13,13 +13,6 @@
   </a>
 </p>
 
-## Using Languages
-<p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
-</p>
-
 ## Using Tools
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
