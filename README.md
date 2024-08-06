@@ -27,14 +27,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## GitHub Stat and Languages
-<p align='center'>
-  <a href="https://github.com/guswlrla">
-    <img src="https://github-readme-stats.vercel.app/api?username=guswlrla&theme=dracula&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswlrla&theme=dracula&layout=compact"/>
-  </a>
-</p>
-
 ## 기술명세
 | 기술분류 | 설명 |
 |:---:|:---:|
