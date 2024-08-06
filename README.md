@@ -1,5 +1,6 @@
 ### About Me
 - ✨ I'm currently working as an IoT instructor
+- 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 수료중(2024.01 ~ 2024.09) 
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white)
