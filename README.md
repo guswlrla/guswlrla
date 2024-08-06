@@ -1,9 +1,3 @@
-<p align='center'>
-  <a href="https://github.com/guswlrla">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffc8dd&text=Welcome&section=header&fontColor=cdb4db&textBg=false&desc=HyeonJi's%20GitHub%20Profile&descAlign=58&descAlignY=62"/>
-  </a>
-</p>
-
 ## Profile
 - Name : Kim Hyeon Ji
 - Email : rlaguswl_01@naver.com
