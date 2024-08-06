@@ -3,8 +3,6 @@
 - Email : rlaguswl_01@naver.com
 - ✨ I'm currently working as an IoT instructor
 
-<br/>
-
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
