@@ -1,8 +1,7 @@
 ### About Me
 - ✨ I'm currently working as an IoT instructor
-- 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 수료중(2024.01 ~ 2024.09) 
 
-### Tech Stack
+###🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=CSharp&logoColor=white)
@@ -11,6 +10,9 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
+###📖 Activity
+- 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 - (2024.01 ~ 2024.09)
+  
 <!-- ### Database
 
 ### Framework
