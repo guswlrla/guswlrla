@@ -26,9 +26,3 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-## 기술명세
-| 기술분류 | 설명 |
-|:---:|:---:|
-|VSCode | VisualStudio Code 툴 사용법 습득|
-|Python | 빅데이터분석, 머신러닝, OpenCV|
