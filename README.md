@@ -1,6 +1,4 @@
 ### About Me
-- Name : Kim Hyeon Ji
-- Email : rlaguswl_01@naver.com
 - ✨ I'm currently working as an IoT instructor
 
 ### Tech Stack
