@@ -2,8 +2,6 @@
 - Name : Kim Hyeon Ji
 - Email : rlaguswl_01@naver.com
 - ✨ I'm currently working as an IoT instructor
-  - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
