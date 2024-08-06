@@ -1,7 +1,7 @@
 ### About Me
 - ✨ I'm currently working as an IoT instructor
 
-### Tech Stack
+#### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=CSharp&logoColor=white)
@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
-### Tools
+#### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=VSCode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=Visual-Studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
