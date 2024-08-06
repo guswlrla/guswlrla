@@ -11,7 +11,7 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Tools
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=VSCode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=VSCode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=Visual-Studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
