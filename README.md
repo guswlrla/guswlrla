@@ -2,7 +2,7 @@
 - 🌻 Name : Kim Hyeon Ji
 - 📫 Email : rlaguswl_01@naver.com
 - 🌱 Experiences : 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 (2024.01 ~ 2024.09)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부산대학교 AI 데이터 분석 풀스택 웹 개발자 과정 (2025.09 ~ 2026.03)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부산대학교 AI 데이터 분석 풀스택 웹 개발자 과정 (2025.09 ~ 2026.03)
 
 #### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white)
