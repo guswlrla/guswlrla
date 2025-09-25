@@ -6,6 +6,7 @@
 
 #### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3670A0?style=flat-square&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
@@ -14,4 +15,3 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=VSCode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
--->
